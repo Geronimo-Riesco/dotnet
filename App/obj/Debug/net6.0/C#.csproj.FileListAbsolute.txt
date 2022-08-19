@@ -1,0 +1,15 @@
+/home/louse/Descargas/C#/bin/Debug/net6.0/C#
+/home/louse/Descargas/C#/bin/Debug/net6.0/C#.deps.json
+/home/louse/Descargas/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/louse/Descargas/C#/bin/Debug/net6.0/C#.dll
+/home/louse/Descargas/C#/bin/Debug/net6.0/C#.pdb
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.dll
+/home/louse/Descargas/C#/obj/Debug/net6.0/refint/C#.dll
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.pdb
+/home/louse/Descargas/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/louse/Descargas/C#/obj/Debug/net6.0/ref/C#.dll
