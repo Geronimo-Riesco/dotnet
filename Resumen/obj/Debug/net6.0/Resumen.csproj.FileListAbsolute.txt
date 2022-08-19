@@ -1,0 +1,15 @@
+/home/louse/Descargas/NET/Resumen/bin/Debug/net6.0/Resumen
+/home/louse/Descargas/NET/Resumen/bin/Debug/net6.0/Resumen.deps.json
+/home/louse/Descargas/NET/Resumen/bin/Debug/net6.0/Resumen.runtimeconfig.json
+/home/louse/Descargas/NET/Resumen/bin/Debug/net6.0/Resumen.dll
+/home/louse/Descargas/NET/Resumen/bin/Debug/net6.0/Resumen.pdb
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.csproj.AssemblyReference.cache
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.GeneratedMSBuildEditorConfig.editorconfig
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.AssemblyInfoInputs.cache
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.AssemblyInfo.cs
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.csproj.CoreCompileInputs.cache
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.dll
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/refint/Resumen.dll
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.pdb
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/Resumen.genruntimeconfig.cache
+/home/louse/Descargas/NET/Resumen/obj/Debug/net6.0/ref/Resumen.dll
