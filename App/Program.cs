@@ -1,7 +1,4 @@
-﻿// Ver la versión de .NET  ->  ~$ dotnet --version
-// Crear la aplicación  ->  ~$ dotnet new console --framework net6.0
-// Ejecute la aplicación  ->  ~$ dotnet run
-
+﻿
 //Aplicación
 
 namespace App
