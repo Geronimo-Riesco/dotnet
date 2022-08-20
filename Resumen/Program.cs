@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+// Ver la versión de .NET  ->  ~$ dotnet --version
+// Crear la aplicación  ->  ~$ dotnet new console --framework net6.0
+// Restaura los archivos de configuración  -> ~$ dotnet restore
+// Ejecute la aplicación  ->  ~$ dotnet run
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
