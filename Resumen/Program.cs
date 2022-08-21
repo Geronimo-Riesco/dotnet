@@ -1,7 +1,11 @@
 ﻿
-// Crea un proyecto de .NET basado en una plantilla  ->  ~$ dotnet new
 // Ver la versión de .NET  ->  ~$ dotnet --version
-// Crear la aplicación  ->  ~$ dotnet new console --framework net6.0
+// Crea un proyecto de .NET basado en una plantilla  ->  ~$ dotnet new
+// Un ejemplo serían  ->  ~$ dotnet new console
+// Mostrar opciones de plantilla con  ->  ~$ dotnet new console -h
+// Mostrar todas las plantillas instaladas con  ->  ~$ dotnet new --list
+// Mostrar plantillas disponibles en NuGet.org  ->  ~$ dotnet new web --search
+// Crear la aplicación de consola ->  ~$ dotnet new console --framework net6.0
 // Restaura los archivos de configuración  -> ~$ dotnet restore
 // Ejecute la aplicación  ->  ~$ dotnet run
 
